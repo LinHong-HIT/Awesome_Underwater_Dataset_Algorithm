@@ -1,4 +1,4 @@
-# This an improved version of awesome underwater dataset by adding underwater visual algorithms.
+## This an improved version of awesome underwater dataset by adding underwater visual algorithms.
 
 ## Image Enhancement, Color Correction/Restoration
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
@@ -107,5 +107,5 @@
 ## Temperature Data
 - Underwater temperature dataset: [Data](https://www.seanoe.org/data/00510/62120/).
 
-## Acknowledge
+## Acknowledgement
 - Thanks for the previous work done by Prof. Md Jahidul Islam. 
