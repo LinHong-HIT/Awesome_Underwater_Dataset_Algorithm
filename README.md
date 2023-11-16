@@ -1,14 +1,11 @@
 ## This an improved version of awesome underwater dataset by adding underwater visual algorithms.
 
 ## Image Enhancement, Color Correction & Restoration
-- [UIE dataset] [Data](https://github.com/LinHong-HIT/WSUIE), [Paper](https://ieeexplore.ieee.org/document/9516935) (unpaired data; WSUIE)
-- [2] **EUVP dataset**: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
-
-[3] **Underwater imagenet**: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
-
-[4] **UIEBD dataset**: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
-
-[5] **SQUID dataset**: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl). (Underwater-HL)
+- [1][UIE dataset] [Data](https://github.com/LinHong-HIT/WSUIE), [Paper](https://ieeexplore.ieee.org/document/9516935) (unpaired data; WSUIE)
+- [2][EUVP dataset] [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
+- [3][Underwater Imagenet] [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
+- [4][UIEBD dataset] [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
+- [5][SQUID dataset] [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl). (Underwater-HL)
 
 [6] **U-45**: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819). (UDAE)
 
