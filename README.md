@@ -2,17 +2,29 @@
 
 ## Image Enhancement, Color Correction/Restoration
 [1] **UIE dataset**:[Data](https://github.com/LinHong-HIT/WSUIE), [Paper](https://ieeexplore.ieee.org/document/9516935)
+
 [2] **EUVP dataset**: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
+
 [3] **Underwater imagenet**: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
+
 [4] **UIEBD dataset**: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
+
 [5] **SQUID dataset**: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl). (Underwater-HL)
+
 [6] **U-45**: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819). (UDAE)
+
 [7] **RUIE benchmark**: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320). (RUIE-Net)
+
 [8] **Jamaica port royal**: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/). (Water-GAN)
+
 [9] **Virtual periscope**: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
+
 [10] **Color correction**: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
+
 [11] **Color restoration**: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl).
+
 [12] **TURBID data**: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
+
 [13] **OceanDark dataset**: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
 
 ## SISR: Single Image Super-Resolution
